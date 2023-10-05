@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.product{
+  background-color: lightpink;
+  border: 2px solid maroon;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 20px;
+
+}
